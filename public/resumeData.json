@@ -1,0 +1,100 @@
+{
+    "main": {
+      "name": "Olaitan Akano",
+      "occupation": "Frontend developer",
+      "image": "profilepic.jpg",
+      "bio": "Hi there! I am Olaitan! I've been coding for over 2 years now. As a Frontend, I have been able to use different technologies to implement frontend designs.",
+      "email": "olaitanmaryakano@gmail.com",
+      "phone": "+2348162179933",
+      "social": [
+        {
+          "name": "twitter",
+          "url": "https://www.twitter.com/oma_aom",
+          "className": "fa fa-twitter"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/olaitan-akano",
+          "className": "fa fa-facebook"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/olaitan-akano-3488651a2/",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/oma_aom/",
+          "className": "fa fa-instagram"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/moa-mel",
+          "className": "fa fa-github"
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "My Programming Language Proficiency",
+      "education": [
+        {
+          "school": "Obafemi Awolowo University, Ile-Ife",
+          "degree": "Bachelor's Degree, Computer Science with mathematics",
+          "graduated": "April 2016 - PRESENT"
+        }
+      ],
+      "work": [
+        {
+          "company": "Data Totems Consult",
+          "title": "Frontend developer Intern",
+          "years": "June 2021 - Present",
+          "description": "Implemented frontend designs by building out UIs using react js and tailwind css. Managed releases and branches of the software. Coding and fixing programming errors."
+        },
+        {
+          "company": "Software Laboratory",
+          "title": "Software developer Intern",
+          "years": "January 2020 - February 2020",
+          "description": "Built IPfinder API and email schedule API using nodejs and nodemailer. Postgraduate system management Web frontend for managing results, courses andtimetable using HTML,CSS and Javascript"
+        }
+      ],
+      "skills": [
+        {
+          "name": "ReactJs",
+          "level": "70%"
+        },
+        {
+          "name": "NextJs",
+          "level": "40%"
+        },
+        {
+          "name": "Python",
+          "level": "45%"
+        },
+        {
+          "name": "Git",
+          "level": "70%"
+        },
+        {
+          "name": "JavaScript",
+          "level": "99%"
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "AVIV E-COMMERECE STORE (React JS)",
+          "category": "",
+          "image":"aviv.JPG",
+          "url": "avivtel.netlify.app"
+        },
+        {
+          "title": "DEW EXPENSE TRACKER (React JS)",
+          "category": "",
+          "image": "dews.JPG",
+          "url": "dews.netlify.app"
+        }
+      ]
+    }
+  }
+  
