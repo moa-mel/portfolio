@@ -46,8 +46,14 @@
       "work": [
         {
           "company": "Data Totems Consult",
+          "title": "Frontend Developer",
+          "years": "January 2022 - Present",
+          "description": "Implemented the frontend design for the company's dashboard and also implmented a payrun."
+        },
+        {
+          "company": "Data Totems Consult",
           "title": "Frontend developer Intern",
-          "years": "June 2021 - Present",
+          "years": "July 2021 - December 2021",
           "description": "Implemented frontend designs by building out UIs using react js and tailwind css. Managed releases and branches of the software. Coding and fixing programming errors."
         },
         {
@@ -64,7 +70,7 @@
         },
         {
           "name": "NextJs",
-          "level": "40%"
+          "level": "60%"
         },
         {
           "name": "Python",
